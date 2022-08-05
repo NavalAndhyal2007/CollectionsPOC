@@ -1,0 +1,7 @@
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\obj\Debug\CollectionsPOC.csproj.AssemblyReference.cache
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\obj\Debug\CollectionsPOC.csproj.CoreCompileInputs.cache
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\bin\Debug\CollectionsPOC.exe.config
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\bin\Debug\CollectionsPOC.exe
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\bin\Debug\CollectionsPOC.pdb
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\obj\Debug\CollectionsPOC.exe
+C:\Users\Naval_Andhyal\source\repos\CollectionsPOC\CollectionsPOC\obj\Debug\CollectionsPOC.pdb
